@@ -20,9 +20,9 @@ The Speed_Reader App is a mobile application designed to enhance reading speed a
 - **Sync Across Devices:** Seamlessly sync your progress between iOS and Android devices
 
 ## Usage
-   Open the index.html file in your browser to start the Speed Reader App.
-   Paste the text in the box and start Reading.
-   Adjust the font-size of text and speed of words.
+- Open the index.html file in your browser to start the Speed Reader App.
+- Paste the text in the box and start Reading.
+-  Adjust the font-size of text and speed of words.
    
 ## Screenshots
 ![Screenshot 2024-07-27 120400](https://github.com/user-attachments/assets/d7501818-f6a8-4ad1-8614-42f3922500f9)
