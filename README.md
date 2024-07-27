@@ -18,5 +18,5 @@ The Speed_Reader App is a mobile application designed to enhance reading speed a
  Track your progress and make adjustments to your settings as needed.
 
 ## Screenshots
+![Uploading Screenshot 2024-07-27 120400.png…]()
 
-*[Snapshots]()
