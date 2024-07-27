@@ -1,4 +1,14 @@
 # Speed_App
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Pages](#pages)
+- [Technologies Used](#technologies-used)
+- [Contact](#contact)
+
+## Introduction
 
 The Speed_Reader App is a mobile application designed to enhance reading speed and comprehension through various interactive techniques and exercises. The app is available for both iOS and Android platforms, providing users with an effective tool to improve their reading skills.
 
@@ -9,14 +19,35 @@ The Speed_Reader App is a mobile application designed to enhance reading speed a
 - **Progress Tracking:** Monitor your reading progress and track improvements over time.
 - **Sync Across Devices:** Seamlessly sync your progress between iOS and Android devices
 
-![Demo Video](Demo_video(Speed_Reader).mp4)
-
 ## Usage
- Launch the app on your device.
- Configure your reading settings according to your preferences.
- Start reading and interact with the exercises to enhance your reading skills.
- Track your progress and make adjustments to your settings as needed.
-
+   Open the index.html file in your browser to start the Speed Reader App.
+   Paste the text in the box and start Reading.
+   Adjust the font-size of text and speed of words.
+   
 ## Screenshots
-![Uploading Screenshot 2024-07-27 120400.png…]()
+![Screenshot 2024-07-27 120400](https://github.com/user-attachments/assets/d7501818-f6a8-4ad1-8614-42f3922500f9)
+
+## Pages
+
+1. **Home Page (Page1)**
+   - Displays the main controls for font size, speed, and progress.
+   - Includes input area for pasting text and buttons to control the reading session.
+
+2. **About Page (Page2)**
+   - Provides information about the app and its vision and mission.
+
+3. **Contact Page (Page3)**
+   - Contains contact information, social media links, and a way to reach out for feedback or support.
+
+## Technologies Used
+
+- **jQuery Mobile**: For building mobile-friendly interfaces.
+- **jQuery**: JavaScript library for handling events and DOM manipulation.
+- **Google Fonts**: For custom font styling.
+- **HTML5**: For structuring the content.
+- **CSS**: For styling the user interface.
+
+## Contact
+* Author: Madhushree M G
+* GitHub: [Madhushree-M-G](https://github.com/Madhushree-M-G)
 
